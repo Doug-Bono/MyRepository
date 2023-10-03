@@ -1,4 +1,4 @@
 # Repository
 
-Douglas Bono \n
+Douglas Bono 
 Email: douglas.bono@wsu.edu
